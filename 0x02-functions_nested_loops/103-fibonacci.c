@@ -16,7 +16,7 @@ next = a + b;
 a = b;
 b = next;
 
-f (next % 2 == 0)
+if (next % 2 == 0)
 sum += next;
 }
 printf("%i\n", sum);
