@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 #include <stdlib.h>
 
 /**
@@ -21,4 +21,4 @@ c++;
 }
 printf("%i\n", sum);
 return (0);
-}
+i}
